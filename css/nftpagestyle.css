@@ -108,8 +108,9 @@ h3 {
     display: flex;
 }
 
-.nft-image-container {
-    overflow-x: hidden;
+.nft-image-container img {
+    width: 300px;
+    height: auto;
 }
 
 .nft-info-container {
